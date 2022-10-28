@@ -1,0 +1,2 @@
+metric,time_this_iter_s,done,timesteps_total,episodes_total,training_iteration,trial_id,experiment_id,date,timestamp,time_total_s,pid,hostname,node_ip,time_since_restore,timesteps_since_restore,iterations_since_restore,warmup_time
+-0.7799726016810132,0.00815892219543457,False,,,1,66fdc863,49ba5bfe65a8490b89bb7af13d1bd5ed,2022-10-27_18-49-41,1666918181,0.00815892219543457,13268,Lil_machine2,127.0.0.1,0.00815892219543457,0,1,0.0
